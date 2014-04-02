@@ -12,10 +12,10 @@
   "dependencies": {
     "haml": "~0.4.3",
     "map-stream": "~0.1.0",
-    "replace-ext": "0.0.1"
+    "replace-ext": "0.0.1",
+    "gulp-util": "~2.2.12"
   },
   "devDependencies": {
-    "gulp-util": "~2.2.12",
     "mocha": "*",
     "should": "*"
   },
